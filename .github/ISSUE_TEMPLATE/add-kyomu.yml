@@ -3,8 +3,6 @@ description: 虚無シリーズの追加
 title: "虚無"
 labels:
   - kyomu
-# assignees:
-#   - ina6ra
 body:
   - type: input
     id: vid
@@ -18,6 +16,7 @@ body:
     attributes:
       label: 投稿日
       description: 虚無レシピの投稿日
+      placeholder: 2022-06-15
     validations:
       required: true
   - type: input
@@ -25,5 +24,6 @@ body:
     attributes:
       label: 材料費
       description: 虚無レシピの材料費
+      placeholder: 77円
     validations:
       required: false
