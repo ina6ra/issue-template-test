@@ -1,6 +1,6 @@
 name: 虚無レシピ
 description: 虚無シリーズの追加
-title: "虚無"
+title: 虚無
 labels:
   - kyomu
 body:
@@ -16,7 +16,7 @@ body:
     attributes:
       label: 投稿日
       description: 虚無レシピの投稿日
-      placeholder: 2022-06-15
+      placeholder: "2022-06-15"
     validations:
       required: true
   - type: input
